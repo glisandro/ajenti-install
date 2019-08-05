@@ -1,0 +1,3 @@
+sudo apt-get install build-essential python-pip python-dev python-lxml libffi-dev libssl-dev libjpeg-dev libpng-dev uuid-dev python-dbus
+curl https://raw.githubusercontent.com/ajenti/ajenti/master/scripts/install.sh | sudo bash -s –
+sudo pip install ajenti-panel ajenti.plugin.dashboard ajenti.plugin.settings ajenti.plugin.plugins ajenti.plugin.filemanager ajenti.plugin.notepad ajenti.plugin.packages ajenti.plugin.services ajenti.plugin.terminal
